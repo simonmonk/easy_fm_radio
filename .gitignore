@@ -55,3 +55,6 @@ dkms.conf
 *.lck
 *.zip
 *-backups/
+
+# Mac
+.DS_Store

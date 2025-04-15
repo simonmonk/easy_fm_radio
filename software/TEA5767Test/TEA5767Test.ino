@@ -24,10 +24,10 @@ long baud = 9600;       //Enter your own Baudrate. I always use 9600.
 void setup() {
   Serial.begin(baud);
   Wire.begin();
-  radio.setFrequency(frequency);
 }
 
 void loop() {
+  radio.setFrequency(frequency);
   printReady();
   printStereo();
   printSignalLevel();

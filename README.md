@@ -6,5 +6,7 @@ At present, there is just a design for a PCB FM Antenna copied from this [resear
 
 Good instructions and code here for [getting the RDA5807M FM Receiver working with Arduino.](https://www.instructables.com/Arduino-Based-Digital-Audio-FM-Radio-Using-RDA5807/)
 
-I have yet to try it out. Watch out for updates.
+You can follow on with the development of this project and find more explanation at the links below.
 
+[Accessible FM Radio Case Study - Part 1](https://www.doctormonk.com/2025/04/accessible-fm-radio-case-study-part-1.html)
+[Accessible FM Radio Case Study - Part 2](https://www.doctormonk.com/2025/04/accessible-fm-radio-case-study-part-2.html)
